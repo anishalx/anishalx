@@ -1,6 +1,15 @@
+###
+<img align="centre" height="700" src="https://lh3.googleusercontent.com/ETi6je16o6tyWl0SkkpcWhk7-QgaZT_YdtFO1zzxIqP1dPb7dMe2M9N_X3oEoyzCe4zggm_3B9ADab6yC1DYyMFy7j0zps-RDnmjIGSWpvKZaATuwGmj8wpfbuYaUIvO-cMSId22De6PIGAifSiTosK9HOrCAKtuhT0eck8WvNKQ7TTrAL5oW_T9Iw"  />
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=42F71F&center=true&width=435&lines=Our+Journey+Is+To+Become+Hacker;One+Day+We+Will)](https://git.io/typing-svg)
+
+
+
+
 <h1 align="center">Hi 👋! My name is Anish  and I'm a cyber security Student from AVIT COLLEGE.</h1>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,11 +17,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e8f99e-ddb4-403c-ae4e-57b9ff8b061a/dai64c5-356baf99-887b-418f-87b2-51e52198d95b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZThmOTllLWRkYjQtNDAzYy1hZTRlLTU3YjlmZjhiMDYxYVwvZGFpNjRjNS0zNTZiYWY5OS04ODdiLTQxOGYtODdiMi01MWU1MjE5OGQ5NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZHPkVC-Gii5XhpdB8O6QkFny_zgsmVJfrHLJtEU074"  />
 
-###
+<!-- <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e8f99e-ddb4-403c-ae4e-57b9ff8b061a/dai64c5-356baf99-887b-418f-87b2-51e52198d95b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZThmOTllLWRkYjQtNDAzYy1hZTRlLTU3YjlmZjhiMDYxYVwvZGFpNjRjNS0zNTZiYWY5OS04ODdiLTQxOGYtODdiMi01MWU1MjE5OGQ5NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZHPkVC-Gii5XhpdB8O6QkFny_zgsmVJfrHLJtEU074"  />-->
+
+<img align="right" height="200" src="https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966"  />
+
 
 
 <div align="center">
