@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker;One+Day+We+Will" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker;BE+The+Best+Fcuk+The+Rest" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,9 +15,47 @@
 -->
 
 
-<h1 align="center">Hi 👋! My name is Anish  and I'm a cyber security Student from AVIT COLLEGE.</h1>
 
 
+
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
+
+
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
+
+I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
+**Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
+
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Anish
+- **From**: India
+- **Bug Hunter** | **Security Researcher** |
+- i have experience in cracking,reverse Engineering,bug Hunting,Social engineering.
+-**Reverse Engineering**, **Malware Analysis**
+- Improving knowledge in **Website Vulnerabilities**
+- I’m currently learning **everything** 
+- Reach me out at **[Email me](anishalx7@gmail.com)**
+
+</details>
+<br>
+
+
+
+
+
+
+
+
+
+<!--<h1 align="center">Hi 👋! My name is Anish  and I'm a cyber security Student from AVIT COLLEGE.</h1>
+
+-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
