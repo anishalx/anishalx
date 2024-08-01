@@ -1,10 +1,18 @@
 ###
-<img align="centre" height="700" src="https://lh3.googleusercontent.com/ETi6je16o6tyWl0SkkpcWhk7-QgaZT_YdtFO1zzxIqP1dPb7dMe2M9N_X3oEoyzCe4zggm_3B9ADab6yC1DYyMFy7j0zps-RDnmjIGSWpvKZaATuwGmj8wpfbuYaUIvO-cMSId22De6PIGAifSiTosK9HOrCAKtuhT0eck8WvNKQ7TTrAL5oW_T9Iw"  />
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker;One+Day+We+Will" alt="Typing SVG" />
+  </a>
+</div>
+
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=42F71F&center=true&width=435&lines=Our+Journey+Is+To+Become+Hacker;One+Day+We+Will)](https://git.io/typing-svg)
 
-
+-->
 
 
 <h1 align="center">Hi 👋! My name is Anish  and I'm a cyber security Student from AVIT COLLEGE.</h1>
