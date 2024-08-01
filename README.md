@@ -40,7 +40,7 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 -**Reverse Engineering**, **Malware Analysis**
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **[Email me](anishalx7@gmail.com)**
+- Reach me out at **[Email me](https://mail.google.com/mail/u/?authuser=anishalx7@gmail.com)**
 
 </details>
 <br>
