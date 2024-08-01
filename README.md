@@ -1,5 +1,5 @@
 ###
-<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/ETi6je16o6tyWl0SkkpcWhk7-QgaZT_YdtFO1zzxIqP1dPb7dMe2M9N_X3oEoyzCe4zggm_3B9ADab6yC1DYyMFy7j0zps-RDnmjIGSWpvKZaATuwGmj8wpfbuYaUIvO-cMSId22De6PIGAifSiTosK9HOrCAKtuhT0eck8WvNKQ7TTrAL5oW_T9Iw" width="100%" height="auto"/></p>
 
 
 
@@ -58,7 +58,7 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=anishalx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -68,6 +68,29 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 <!-- <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e8f99e-ddb4-403c-ae4e-57b9ff8b061a/dai64c5-356baf99-887b-418f-87b2-51e52198d95b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZThmOTllLWRkYjQtNDAzYy1hZTRlLTU3YjlmZjhiMDYxYVwvZGFpNjRjNS0zNTZiYWY5OS04ODdiLTQxOGYtODdiMi01MWU1MjE5OGQ5NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZHPkVC-Gii5XhpdB8O6QkFny_zgsmVJfrHLJtEU074"  />-->
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966"  />
+
+
+
+
+---
+
+<h2 id="present_status"> Present Status </h3>
+
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+👉 Still Learning Bug hunting & malware forensics.
+
+👉 Managing Tech Communities & Content creator.
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist👀.
+
+---
 
 
 
