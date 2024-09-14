@@ -67,7 +67,7 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 
 <!-- <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e8f99e-ddb4-403c-ae4e-57b9ff8b061a/dai64c5-356baf99-887b-418f-87b2-51e52198d95b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZThmOTllLWRkYjQtNDAzYy1hZTRlLTU3YjlmZjhiMDYxYVwvZGFpNjRjNS0zNTZiYWY5OS04ODdiLTQxOGYtODdiMi01MWU1MjE5OGQ5NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZHPkVC-Gii5XhpdB8O6QkFny_zgsmVJfrHLJtEU074"  />-->
 
-<img align="right" height="200" src="https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966"  />
+<!-- <img align="right" height="200" src="https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966"  /> -->
 
 
 
