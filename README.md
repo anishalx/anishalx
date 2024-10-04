@@ -136,3 +136,25 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 
 <img src="https://raw.githubusercontent.com/anishalx/anishalx/output/snake.svg" alt="Snake animation" />
 
+
+<h2 id="donate" align=''> Support⚡️</h2>
+
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><img src="" width="80%" height="auto"/></p>
+
+<p align="center"><a href="https://buymeacoffee.com/anishalx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+
+</details>
+
+
+
+
+<p align="center">
+  <b><i>"Never give up. Never back down."</i></b>
+</p>
+
+<p align="center">
+<a>🌱</a>
+</p>
