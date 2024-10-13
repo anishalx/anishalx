@@ -140,7 +140,8 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 
 <p align="center"><img src="https://www.imghost.net/ib/rgEQN0lcomuS0Ju_1728067509.png" width="80%" height="auto"/></p>
 
-<p align="center"><a href="https://buymeacoffee.com/anishalx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<!-- <p align="center"><a href="https://buymeacoffee.com/anishalx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p> -->
+<p align="center">  <a href="https://www.buymeacoffee.com/anishalx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
 </details>
 
