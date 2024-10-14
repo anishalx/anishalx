@@ -121,7 +121,7 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
   <a href="https://discord.gg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/@Alxhacks" target="_blank">
+  <a href="https://www.youtube.com/@alxanish" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://t.me/anishalx" target="_blank">
