@@ -21,10 +21,13 @@
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
 
 
-<h2 align="left">
+<!--<h2 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-</h2>
+</h2>-->
+### Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="70%"></p>
 
 I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** or a **Bug hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. Malwares, Viruses, Bug hunting,I hope I will become a Cybersecurity Specialists then I can protect company assests and help community.
@@ -133,7 +136,9 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 <img src="https://raw.githubusercontent.com/anishalx/anishalx/output/snake.svg" alt="Snake animation" />
 
 
-<h2 id="donate" align=''> Support⚡️</h2>
+<!--<h2 id="donate" align=''> Support⚡️</h2>-->
+### Support⚡️
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <details>
 <summary>Buy Me A Coffee</summary>
@@ -155,3 +160,5 @@ I'm **[Anish](https://t.me/anishalx)**, a hacker & Security Researcher. I'm on m
 <p align="center">
 <a>🌱</a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="70%"></p>
