@@ -1,8 +1,7 @@
 ###
-<!--
+
 <p align="center"><img src="https://lh3.googleusercontent.com/ETi6je16o6tyWl0SkkpcWhk7-QgaZT_YdtFO1zzxIqP1dPb7dMe2M9N_X3oEoyzCe4zggm_3B9ADab6yC1DYyMFy7j0zps-RDnmjIGSWpvKZaATuwGmj8wpfbuYaUIvO-cMSId22De6PIGAifSiTosK9HOrCAKtuhT0eck8WvNKQ7TTrAL5oW_T9Iw" width="100%" height="auto"/></p>
 
--->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
