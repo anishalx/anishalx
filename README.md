@@ -58,8 +58,7 @@ I'm **[Anish](https://t.me/alxanishbot)**, a hacker & Security Researcher. I'm o
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
 </picture>
-  <img src="https://streak-stats.demolab.com?user=anishalx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
- <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
 </div>
 
 
