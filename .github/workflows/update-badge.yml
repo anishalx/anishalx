@@ -27,7 +27,7 @@ jobs:
         
     - name: Fetch TryHackMe stats and generate badge
       env:
-        THM_USER_ID: "anishalx"
+        THM_USERNAME: "anishalx"
       run: |
         python .github/scripts/update_badge.py
         
