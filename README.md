@@ -16,6 +16,12 @@
 
 
 
+<p align="center">
+  <a href="https://tryhackme.com/p/anishalx">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/anishalx.png" alt="TryHackMe Badge" />
+  </a>
+</p>
+
 
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/466fee29-c3cf-4aa3-8807-6d0daaa4e6cf">
