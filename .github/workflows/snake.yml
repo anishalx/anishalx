@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -24,6 +24,9 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Fix dist folder permissions
+        run: sudo chown -R $USER:$USER dist
 
       - name: Push snake to output branch
         run: |
