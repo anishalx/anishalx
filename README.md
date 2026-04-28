@@ -126,7 +126,7 @@ I'm **[Anish](https://t.me/alxanishbot)**, a hacker & Security Researcher. I'm o
 </div>
 
 
-<img src="https://raw.githubusercontent.com/anishalx/anishalx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anishalx/anishalx/output/snake.svg" />
 
 
 <!--<h2 id="donate" align=''> Support⚡️</h2>-->
