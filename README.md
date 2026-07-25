@@ -59,19 +59,17 @@ I'm **[Anish](https://t.me/alxanishbot)**, a hacker & Security Researcher. I'm o
 <div align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anishalx&show_icons=true&theme=radical"
+    srcset="https://github-stats-extended.vercel.app/api?username=anishalx&show_icons=true&include_all_commits=true&theme=ambient_gradient"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anishalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
 </picture>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anishalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anishalx&theme=dracula" height="150" alt="languages graph" />
+
 </div>
 
 
-
 <!-- <img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/09e8f99e-ddb4-403c-ae4e-57b9ff8b061a/dai64c5-356baf99-887b-418f-87b2-51e52198d95b.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA5ZThmOTllLWRkYjQtNDAzYy1hZTRlLTU3YjlmZjhiMDYxYVwvZGFpNjRjNS0zNTZiYWY5OS04ODdiLTQxOGYtODdiMi01MWU1MjE5OGQ5NWIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sZHPkVC-Gii5XhpdB8O6QkFny_zgsmVJfrHLJtEU074"  />-->
-
-<!-- <img align="right" height="200" src="https://camo.githubusercontent.com/ca96ac12024a23410f4b8d22a0de74287529ad008328557725514896958346fd/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3135362f31353637352e676966"  /> -->
 
 
 
