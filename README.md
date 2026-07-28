@@ -96,8 +96,7 @@ I'm **[Anish](https://t.me/alxanishbot)**, a hacker & Security Researcher. I'm o
 
 
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:12px;">
-
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
